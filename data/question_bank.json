@@ -1,0 +1,2792 @@
+[
+  {
+    "id": "L01-Q1",
+    "lessonId": "L01",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "erp"
+    ],
+    "question": "Điểm cốt lõi của ERP là gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Chỉ đếm hàng trong kho",
+        "explanation": "Chưa đúng. ERP kết nối nghiệp vụ; đếm kho chỉ là một phần, website bán hàng chỉ là một kênh tiếp nhận đơn."
+      },
+      {
+        "id": "c",
+        "text": "Chỉ thiết kế website bán hàng",
+        "explanation": "Chưa đúng. ERP kết nối nghiệp vụ; đếm kho chỉ là một phần, website bán hàng chỉ là một kênh tiếp nhận đơn."
+      },
+      {
+        "id": "a",
+        "text": "Tích hợp quy trình và dữ liệu giữa các bộ phận",
+        "explanation": "Đúng. ERP kết nối nghiệp vụ; đếm kho chỉ là một phần, website bán hàng chỉ là một kênh tiếp nhận đơn."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "ERP kết nối nghiệp vụ; đếm kho chỉ là một phần, website bán hàng chỉ là một kênh tiếp nhận đơn."
+  },
+  {
+    "id": "L01-Q2",
+    "lessonId": "L01",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "integration"
+    ],
+    "question": "Sales báo còn 20 bàn phím nhưng Kho chỉ còn 12. Cải tiến nào phù hợp nhất?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Chỉ đổi màu giao diện",
+        "explanation": "Chưa đúng. Sự thống nhất mã hàng và quy tắc cập nhật giải quyết mâu thuẫn dữ liệu. Đổi mã tùy ý làm tăng sai lệch; giao diện không sửa dữ liệu."
+      },
+      {
+        "id": "a",
+        "text": "Dùng mã hàng thống nhất và dữ liệu tồn được cập nhật theo quy trình chung",
+        "explanation": "Đúng. Sự thống nhất mã hàng và quy tắc cập nhật giải quyết mâu thuẫn dữ liệu. Đổi mã tùy ý làm tăng sai lệch; giao diện không sửa dữ liệu."
+      },
+      {
+        "id": "b",
+        "text": "Cho mỗi phòng đổi mã sản phẩm tùy ý",
+        "explanation": "Chưa đúng. Sự thống nhất mã hàng và quy tắc cập nhật giải quyết mâu thuẫn dữ liệu. Đổi mã tùy ý làm tăng sai lệch; giao diện không sửa dữ liệu."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Sự thống nhất mã hàng và quy tắc cập nhật giải quyết mâu thuẫn dữ liệu. Đổi mã tùy ý làm tăng sai lệch; giao diện không sửa dữ liệu."
+  },
+  {
+    "id": "L01-Q3",
+    "lessonId": "L01",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "shared-data"
+    ],
+    "question": "“Một nguồn sự thật” trong ERP nên hiểu thế nào?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cùng sự kiện nghiệp vụ không có các phiên bản mâu thuẫn",
+        "explanation": "Đúng. Tính nhất quán không yêu cầu một bảng duy nhất. Quyền truy cập vẫn cần giới hạn theo trách nhiệm."
+      },
+      {
+        "id": "b",
+        "text": "Tất cả dữ liệu bắt buộc nằm trong một bảng",
+        "explanation": "Chưa đúng. Tính nhất quán không yêu cầu một bảng duy nhất. Quyền truy cập vẫn cần giới hạn theo trách nhiệm."
+      },
+      {
+        "id": "c",
+        "text": "Mọi nhân viên đều được sửa mọi dữ liệu",
+        "explanation": "Chưa đúng. Tính nhất quán không yêu cầu một bảng duy nhất. Quyền truy cập vẫn cần giới hạn theo trách nhiệm."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Tính nhất quán không yêu cầu một bảng duy nhất. Quyền truy cập vẫn cần giới hạn theo trách nhiệm."
+  },
+  {
+    "id": "L01-Q4",
+    "lessonId": "L01",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "erp"
+    ],
+    "question": "Vì sao mua ERP chưa đủ để cải thiện vận hành?",
+    "options": [
+      {
+        "id": "b",
+        "text": "ERP tự động loại bỏ mọi lỗi nhập liệu",
+        "explanation": "Chưa đúng. Công nghệ hỗ trợ con người và quy trình. ERP không bảo đảm hết lỗi và có giải pháp cho nhiều quy mô."
+      },
+      {
+        "id": "c",
+        "text": "ERP chỉ chạy được ở tập đoàn lớn",
+        "explanation": "Chưa đúng. Công nghệ hỗ trợ con người và quy trình. ERP không bảo đảm hết lỗi và có giải pháp cho nhiều quy mô."
+      },
+      {
+        "id": "a",
+        "text": "Cần chuẩn hóa quy trình, dữ liệu và đào tạo người dùng",
+        "explanation": "Đúng. Công nghệ hỗ trợ con người và quy trình. ERP không bảo đảm hết lỗi và có giải pháp cho nhiều quy mô."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Công nghệ hỗ trợ con người và quy trình. ERP không bảo đảm hết lỗi và có giải pháp cho nhiều quy mô."
+  },
+  {
+    "id": "L01-Q5",
+    "lessonId": "L01",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "integration"
+    ],
+    "question": "Lợi ích trực tiếp của dữ liệu tích hợp là gì?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Bảo đảm doanh nghiệp luôn có lãi",
+        "explanation": "Chưa đúng. Dữ liệu dùng chung giảm thao tác trùng; đào tạo vẫn cần và lợi nhuận còn phụ thuộc nhiều yếu tố."
+      },
+      {
+        "id": "a",
+        "text": "Giảm nhập lại cùng một thông tin ở nhiều bộ phận",
+        "explanation": "Đúng. Dữ liệu dùng chung giảm thao tác trùng; đào tạo vẫn cần và lợi nhuận còn phụ thuộc nhiều yếu tố."
+      },
+      {
+        "id": "b",
+        "text": "Loại bỏ hoàn toàn chi phí đào tạo",
+        "explanation": "Chưa đúng. Dữ liệu dùng chung giảm thao tác trùng; đào tạo vẫn cần và lợi nhuận còn phụ thuộc nhiều yếu tố."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Dữ liệu dùng chung giảm thao tác trùng; đào tạo vẫn cần và lợi nhuận còn phụ thuộc nhiều yếu tố."
+  },
+  {
+    "id": "L02-Q1",
+    "lessonId": "L02",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "modules"
+    ],
+    "question": "Hoạt động chấm công thuộc phân hệ nào?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Inventory",
+        "explanation": "Chưa đúng. HRM quản lý nhân sự; Inventory quản lý tồn, Purchasing quản lý mua hàng."
+      },
+      {
+        "id": "c",
+        "text": "Purchasing",
+        "explanation": "Chưa đúng. HRM quản lý nhân sự; Inventory quản lý tồn, Purchasing quản lý mua hàng."
+      },
+      {
+        "id": "a",
+        "text": "HRM",
+        "explanation": "Đúng. HRM quản lý nhân sự; Inventory quản lý tồn, Purchasing quản lý mua hàng."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "HRM quản lý nhân sự; Inventory quản lý tồn, Purchasing quản lý mua hàng."
+  },
+  {
+    "id": "L02-Q2",
+    "lessonId": "L02",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "crm"
+    ],
+    "question": "CRM tập trung chủ yếu vào đâu?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Tính nguyên vật liệu sản xuất",
+        "explanation": "Chưa đúng. CRM quản lý tương tác khách hàng; tồn kho và nguyên vật liệu thuộc nghiệp vụ khác, dù có thể tích hợp."
+      },
+      {
+        "id": "a",
+        "text": "Quan hệ khách hàng và cơ hội bán hàng",
+        "explanation": "Đúng. CRM quản lý tương tác khách hàng; tồn kho và nguyên vật liệu thuộc nghiệp vụ khác, dù có thể tích hợp."
+      },
+      {
+        "id": "b",
+        "text": "Cộng trừ tồn kho vật lý",
+        "explanation": "Chưa đúng. CRM quản lý tương tác khách hàng; tồn kho và nguyên vật liệu thuộc nghiệp vụ khác, dù có thể tích hợp."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "CRM quản lý tương tác khách hàng; tồn kho và nguyên vật liệu thuộc nghiệp vụ khác, dù có thể tích hợp."
+  },
+  {
+    "id": "L02-Q3",
+    "lessonId": "L02",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "scm"
+    ],
+    "question": "Đơn hàng bán bàn phím thường liên quan nhóm nào?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sales, Inventory và Finance",
+        "explanation": "Đúng. Bán hàng cần xác nhận tồn và theo dõi hóa đơn/thu tiền. HRM hay Production riêng lẻ không bao quát quy trình."
+      },
+      {
+        "id": "b",
+        "text": "Chỉ HRM",
+        "explanation": "Chưa đúng. Bán hàng cần xác nhận tồn và theo dõi hóa đơn/thu tiền. HRM hay Production riêng lẻ không bao quát quy trình."
+      },
+      {
+        "id": "c",
+        "text": "Chỉ Production",
+        "explanation": "Chưa đúng. Bán hàng cần xác nhận tồn và theo dõi hóa đơn/thu tiền. HRM hay Production riêng lẻ không bao quát quy trình."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Bán hàng cần xác nhận tồn và theo dõi hóa đơn/thu tiền. HRM hay Production riêng lẻ không bao quát quy trình."
+  },
+  {
+    "id": "L02-Q4",
+    "lessonId": "L02",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "modules"
+    ],
+    "question": "SCM nhấn mạnh điều gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Chỉ quản lý hồ sơ nhân viên",
+        "explanation": "Chưa đúng. SCM có trọng tâm chuỗi cung ứng, khác quản lý nhân sự hay một trường thông tin CRM."
+      },
+      {
+        "id": "c",
+        "text": "Chỉ lưu địa chỉ email khách hàng",
+        "explanation": "Chưa đúng. SCM có trọng tâm chuỗi cung ứng, khác quản lý nhân sự hay một trường thông tin CRM."
+      },
+      {
+        "id": "a",
+        "text": "Phối hợp chuỗi cung ứng từ nhà cung cấp tới khách hàng",
+        "explanation": "Đúng. SCM có trọng tâm chuỗi cung ứng, khác quản lý nhân sự hay một trường thông tin CRM."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "SCM có trọng tâm chuỗi cung ứng, khác quản lý nhân sự hay một trường thông tin CRM."
+  },
+  {
+    "id": "L02-Q5",
+    "lessonId": "L02",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "crm"
+    ],
+    "question": "Cần đặt mua thêm chuột từ nhà cung cấp. Phân hệ chủ trì là gì?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Sales",
+        "explanation": "Chưa đúng. Purchasing quản lý đơn mua; HRM quản lý nhân sự; Sales quản lý bán ra cho khách."
+      },
+      {
+        "id": "a",
+        "text": "Purchasing",
+        "explanation": "Đúng. Purchasing quản lý đơn mua; HRM quản lý nhân sự; Sales quản lý bán ra cho khách."
+      },
+      {
+        "id": "b",
+        "text": "HRM",
+        "explanation": "Chưa đúng. Purchasing quản lý đơn mua; HRM quản lý nhân sự; Sales quản lý bán ra cho khách."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Purchasing quản lý đơn mua; HRM quản lý nhân sự; Sales quản lý bán ra cho khách."
+  },
+  {
+    "id": "L03-Q1",
+    "lessonId": "L03",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "master-data"
+    ],
+    "question": "Bản ghi nào là transaction data?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Danh mục sản phẩm KB-01",
+        "explanation": "Chưa đúng. Đơn bán là sự kiện theo thời gian. Sản phẩm và nhà cung cấp là dữ liệu tham chiếu dùng cho nhiều giao dịch."
+      },
+      {
+        "id": "c",
+        "text": "Thông tin nhà cung cấp S-01",
+        "explanation": "Chưa đúng. Đơn bán là sự kiện theo thời gian. Sản phẩm và nhà cung cấp là dữ liệu tham chiếu dùng cho nhiều giao dịch."
+      },
+      {
+        "id": "a",
+        "text": "Đơn bán SO-101 ngày 10/11",
+        "explanation": "Đúng. Đơn bán là sự kiện theo thời gian. Sản phẩm và nhà cung cấp là dữ liệu tham chiếu dùng cho nhiều giao dịch."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Đơn bán là sự kiện theo thời gian. Sản phẩm và nhà cung cấp là dữ liệu tham chiếu dùng cho nhiều giao dịch."
+  },
+  {
+    "id": "L03-Q2",
+    "lessonId": "L03",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "transaction-data"
+    ],
+    "question": "Master data có bất biến không?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Chỉ thay đổi khi tạo hóa đơn",
+        "explanation": "Chưa đúng. Master data tương đối ổn định chứ không bất biến. Việc cập nhật không bắt buộc gắn với hóa đơn."
+      },
+      {
+        "id": "a",
+        "text": "Không, có thể cập nhật có kiểm soát",
+        "explanation": "Đúng. Master data tương đối ổn định chứ không bất biến. Việc cập nhật không bắt buộc gắn với hóa đơn."
+      },
+      {
+        "id": "b",
+        "text": "Có, không bao giờ được sửa",
+        "explanation": "Chưa đúng. Master data tương đối ổn định chứ không bất biến. Việc cập nhật không bắt buộc gắn với hóa đơn."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Master data tương đối ổn định chứ không bất biến. Việc cập nhật không bắt buộc gắn với hóa đơn."
+  },
+  {
+    "id": "L03-Q3",
+    "lessonId": "L03",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "implementation"
+    ],
+    "question": "As-Is mô tả điều gì?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Quy trình đang vận hành",
+        "explanation": "Đúng. As-Is là hiện trạng; To-Be là trạng thái mong muốn. Sao lưu là công việc kỹ thuật khác."
+      },
+      {
+        "id": "b",
+        "text": "Quy trình mong muốn sau cải tiến",
+        "explanation": "Chưa đúng. As-Is là hiện trạng; To-Be là trạng thái mong muốn. Sao lưu là công việc kỹ thuật khác."
+      },
+      {
+        "id": "c",
+        "text": "Bản sao lưu cơ sở dữ liệu",
+        "explanation": "Chưa đúng. As-Is là hiện trạng; To-Be là trạng thái mong muốn. Sao lưu là công việc kỹ thuật khác."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "As-Is là hiện trạng; To-Be là trạng thái mong muốn. Sao lưu là công việc kỹ thuật khác."
+  },
+  {
+    "id": "L03-Q4",
+    "lessonId": "L03",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "master-data"
+    ],
+    "question": "Hai bản ghi khách cùng tên nhưng khác số điện thoại nên xử lý thế nào?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Xóa ngay một bản ghi vì trùng tên",
+        "explanation": "Chưa đúng. Tên giống không đủ kết luận cùng khách. Cần quy tắc định danh và xác minh để tránh mất dữ liệu hoặc trùng lặp."
+      },
+      {
+        "id": "c",
+        "text": "Giữ mã tùy ý và bỏ kiểm tra",
+        "explanation": "Chưa đúng. Tên giống không đủ kết luận cùng khách. Cần quy tắc định danh và xác minh để tránh mất dữ liệu hoặc trùng lặp."
+      },
+      {
+        "id": "a",
+        "text": "Xác minh định danh trước khi hợp nhất",
+        "explanation": "Đúng. Tên giống không đủ kết luận cùng khách. Cần quy tắc định danh và xác minh để tránh mất dữ liệu hoặc trùng lặp."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Tên giống không đủ kết luận cùng khách. Cần quy tắc định danh và xác minh để tránh mất dữ liệu hoặc trùng lặp."
+  },
+  {
+    "id": "L03-Q5",
+    "lessonId": "L03",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "transaction-data"
+    ],
+    "question": "Rủi ro nào cần giải quyết trước khi chuyển Excel vào ERP?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Nhân viên dùng nhiều kích thước màn hình",
+        "explanation": "Chưa đúng. Mã không thống nhất làm tham chiếu sai. Màu biểu tượng và kích thước màn hình không phải lỗi định danh dữ liệu."
+      },
+      {
+        "id": "a",
+        "text": "Mã sản phẩm không nhất quán",
+        "explanation": "Đúng. Mã không thống nhất làm tham chiếu sai. Màu biểu tượng và kích thước màn hình không phải lỗi định danh dữ liệu."
+      },
+      {
+        "id": "b",
+        "text": "Màu biểu tượng không đồng nhất",
+        "explanation": "Chưa đúng. Mã không thống nhất làm tham chiếu sai. Màu biểu tượng và kích thước màn hình không phải lỗi định danh dữ liệu."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Mã không thống nhất làm tham chiếu sai. Màu biểu tượng và kích thước màn hình không phải lỗi định danh dữ liệu."
+  },
+  {
+    "id": "L04-Q1",
+    "lessonId": "L04",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "o2c"
+    ],
+    "question": "Sales Order xác nhận điều gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Khách đã thanh toán đầy đủ",
+        "explanation": "Chưa đúng. Đơn bán, xuất hàng và thanh toán là những sự kiện khác nhau; phải kiểm tra trạng thái từng chứng từ."
+      },
+      {
+        "id": "c",
+        "text": "Kho chắc chắn đã xuất hàng",
+        "explanation": "Chưa đúng. Đơn bán, xuất hàng và thanh toán là những sự kiện khác nhau; phải kiểm tra trạng thái từng chứng từ."
+      },
+      {
+        "id": "a",
+        "text": "Yêu cầu hoặc cam kết đơn bán theo quy trình",
+        "explanation": "Đúng. Đơn bán, xuất hàng và thanh toán là những sự kiện khác nhau; phải kiểm tra trạng thái từng chứng từ."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Đơn bán, xuất hàng và thanh toán là những sự kiện khác nhau; phải kiểm tra trạng thái từng chứng từ."
+  },
+  {
+    "id": "L04-Q2",
+    "lessonId": "L04",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "invoice"
+    ],
+    "question": "Theo quy tắc sandbox, tạo đơn 8 chiếc nhưng chưa post phiếu xuất; tồn đầu 20. Tồn vật lý là bao nhiêu?",
+    "options": [
+      {
+        "id": "c",
+        "text": "28",
+        "explanation": "Chưa đúng. Chỉ post phiếu kho mới sinh movement. Lấy 20−8 khi chưa post là sai; cộng 8 cũng không có căn cứ."
+      },
+      {
+        "id": "a",
+        "text": "20",
+        "explanation": "Đúng. Chỉ post phiếu kho mới sinh movement. Lấy 20−8 khi chưa post là sai; cộng 8 cũng không có căn cứ."
+      },
+      {
+        "id": "b",
+        "text": "12",
+        "explanation": "Chưa đúng. Chỉ post phiếu kho mới sinh movement. Lấy 20−8 khi chưa post là sai; cộng 8 cũng không có căn cứ."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Chỉ post phiếu kho mới sinh movement. Lấy 20−8 khi chưa post là sai; cộng 8 cũng không có căn cứ."
+  },
+  {
+    "id": "L04-Q3",
+    "lessonId": "L04",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "payment"
+    ],
+    "question": "Giao 8 bàn phím giá 100.000đ/chiếc, khách trả sau. Số tiền đã thu là bao nhiêu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "0đ",
+        "explanation": "Đúng. Bán 800.000đ không đồng nghĩa thu 800.000đ; chưa thanh toán thì số tiền thu từ giao dịch là 0."
+      },
+      {
+        "id": "b",
+        "text": "800.000đ",
+        "explanation": "Chưa đúng. Bán 800.000đ không đồng nghĩa thu 800.000đ; chưa thanh toán thì số tiền thu từ giao dịch là 0."
+      },
+      {
+        "id": "c",
+        "text": "100.000đ",
+        "explanation": "Chưa đúng. Bán 800.000đ không đồng nghĩa thu 800.000đ; chưa thanh toán thì số tiền thu từ giao dịch là 0."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Bán 800.000đ không đồng nghĩa thu 800.000đ; chưa thanh toán thì số tiền thu từ giao dịch là 0."
+  },
+  {
+    "id": "L04-Q4",
+    "lessonId": "L04",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "o2c"
+    ],
+    "question": "Thứ tự đơn giản của O2C trong bài học là gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Thu tiền → mua hàng → chấm công",
+        "explanation": "Chưa đúng. O2C theo dõi bán hàng tới thu tiền. Hai chuỗi còn lại trộn các nghiệp vụ không liên quan; thực tế có thể có biến thể trả trước."
+      },
+      {
+        "id": "c",
+        "text": "Nhập kho → tuyển dụng → đơn bán",
+        "explanation": "Chưa đúng. O2C theo dõi bán hàng tới thu tiền. Hai chuỗi còn lại trộn các nghiệp vụ không liên quan; thực tế có thể có biến thể trả trước."
+      },
+      {
+        "id": "a",
+        "text": "Đơn bán → giao hàng → hóa đơn → thu tiền",
+        "explanation": "Đúng. O2C theo dõi bán hàng tới thu tiền. Hai chuỗi còn lại trộn các nghiệp vụ không liên quan; thực tế có thể có biến thể trả trước."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "O2C theo dõi bán hàng tới thu tiền. Hai chuỗi còn lại trộn các nghiệp vụ không liên quan; thực tế có thể có biến thể trả trước."
+  },
+  {
+    "id": "L04-Q5",
+    "lessonId": "L04",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "invoice"
+    ],
+    "question": "Doanh thu có luôn bằng lợi nhuận không?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Có, nếu khách đã trả tiền",
+        "explanation": "Chưa đúng. Hóa đơn và thanh toán không loại bỏ giá vốn/chi phí. Doanh thu không phải lợi nhuận."
+      },
+      {
+        "id": "a",
+        "text": "Không, lợi nhuận còn phụ thuộc giá vốn và chi phí",
+        "explanation": "Đúng. Hóa đơn và thanh toán không loại bỏ giá vốn/chi phí. Doanh thu không phải lợi nhuận."
+      },
+      {
+        "id": "b",
+        "text": "Có, vì đã phát hành hóa đơn",
+        "explanation": "Chưa đúng. Hóa đơn và thanh toán không loại bỏ giá vốn/chi phí. Doanh thu không phải lợi nhuận."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Hóa đơn và thanh toán không loại bỏ giá vốn/chi phí. Doanh thu không phải lợi nhuận."
+  },
+  {
+    "id": "L05-Q1",
+    "lessonId": "L05",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "p2p"
+    ],
+    "question": "PR là gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Đơn mua đã gửi nhà cung cấp",
+        "explanation": "Chưa đúng. PR nêu nhu cầu nội bộ; PO là đơn mua, Goods Receipt xác nhận thực nhận."
+      },
+      {
+        "id": "c",
+        "text": "Phiếu xác nhận hàng về kho",
+        "explanation": "Chưa đúng. PR nêu nhu cầu nội bộ; PO là đơn mua, Goods Receipt xác nhận thực nhận."
+      },
+      {
+        "id": "a",
+        "text": "Yêu cầu mua nội bộ",
+        "explanation": "Đúng. PR nêu nhu cầu nội bộ; PO là đơn mua, Goods Receipt xác nhận thực nhận."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "PR nêu nhu cầu nội bộ; PO là đơn mua, Goods Receipt xác nhận thực nhận."
+  },
+  {
+    "id": "L05-Q2",
+    "lessonId": "L05",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "three-way-match"
+    ],
+    "question": "3-way matching đối chiếu những gì?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Chỉ ba bản sao của cùng hóa đơn",
+        "explanation": "Chưa đúng. Ba chứng từ độc lập giúp so sánh đã đặt, đã nhận và bị tính tiền. Sao chép hóa đơn không tạo đối chiếu."
+      },
+      {
+        "id": "a",
+        "text": "PO, Goods Receipt và Invoice",
+        "explanation": "Đúng. Ba chứng từ độc lập giúp so sánh đã đặt, đã nhận và bị tính tiền. Sao chép hóa đơn không tạo đối chiếu."
+      },
+      {
+        "id": "b",
+        "text": "PR, bảng chấm công và CV",
+        "explanation": "Chưa đúng. Ba chứng từ độc lập giúp so sánh đã đặt, đã nhận và bị tính tiền. Sao chép hóa đơn không tạo đối chiếu."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Ba chứng từ độc lập giúp so sánh đã đặt, đã nhận và bị tính tiền. Sao chép hóa đơn không tạo đối chiếu."
+  },
+  {
+    "id": "L05-Q3",
+    "lessonId": "L05",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "roles"
+    ],
+    "question": "PO đặt 15, nhận 12, hóa đơn 15. Nên làm gì?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Làm rõ sai lệch 3 chiếc trước khi duyệt thanh toán toàn bộ",
+        "explanation": "Đúng. Có thể giao từng phần hoặc nhập sai. Cần xác minh; sửa sai sự thật hay kết luận gian lận khi chưa đủ bằng chứng đều không phù hợp."
+      },
+      {
+        "id": "b",
+        "text": "Tự sửa phiếu nhận thành 15",
+        "explanation": "Chưa đúng. Có thể giao từng phần hoặc nhập sai. Cần xác minh; sửa sai sự thật hay kết luận gian lận khi chưa đủ bằng chứng đều không phù hợp."
+      },
+      {
+        "id": "c",
+        "text": "Kết luận ngay nhà cung cấp gian lận",
+        "explanation": "Chưa đúng. Có thể giao từng phần hoặc nhập sai. Cần xác minh; sửa sai sự thật hay kết luận gian lận khi chưa đủ bằng chứng đều không phù hợp."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Có thể giao từng phần hoặc nhập sai. Cần xác minh; sửa sai sự thật hay kết luận gian lận khi chưa đủ bằng chứng đều không phù hợp."
+  },
+  {
+    "id": "L05-Q4",
+    "lessonId": "L05",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "p2p"
+    ],
+    "question": "Vì sao nên tách người mua, nhận hàng và duyệt chi?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Để không cần lưu chứng từ",
+        "explanation": "Chưa đúng. Phân tách trách nhiệm cần đi cùng chứng từ và quyền phù hợp, không loại bỏ kiểm soát."
+      },
+      {
+        "id": "c",
+        "text": "Để mọi người có quyền quản trị hệ thống",
+        "explanation": "Chưa đúng. Phân tách trách nhiệm cần đi cùng chứng từ và quyền phù hợp, không loại bỏ kiểm soát."
+      },
+      {
+        "id": "a",
+        "text": "Giảm rủi ro kiểm soát và tăng khả năng đối chiếu",
+        "explanation": "Đúng. Phân tách trách nhiệm cần đi cùng chứng từ và quyền phù hợp, không loại bỏ kiểm soát."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Phân tách trách nhiệm cần đi cùng chứng từ và quyền phù hợp, không loại bỏ kiểm soát."
+  },
+  {
+    "id": "L05-Q5",
+    "lessonId": "L05",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "three-way-match"
+    ],
+    "question": "Nhận hóa đơn có chứng minh đã nhận hàng không?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Có, nếu hóa đơn có nhiều dòng",
+        "explanation": "Chưa đúng. Hóa đơn và nhận hàng có thể khác thời điểm; số dòng không xác nhận giao nhận thực tế."
+      },
+      {
+        "id": "a",
+        "text": "Không, cần đối chiếu phiếu nhận hàng",
+        "explanation": "Đúng. Hóa đơn và nhận hàng có thể khác thời điểm; số dòng không xác nhận giao nhận thực tế."
+      },
+      {
+        "id": "b",
+        "text": "Có, hai sự kiện luôn cùng lúc",
+        "explanation": "Chưa đúng. Hóa đơn và nhận hàng có thể khác thời điểm; số dòng không xác nhận giao nhận thực tế."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Hóa đơn và nhận hàng có thể khác thời điểm; số dòng không xác nhận giao nhận thực tế."
+  },
+  {
+    "id": "L06-Q1",
+    "lessonId": "L06",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "stock"
+    ],
+    "question": "Tồn đầu 20, nhập đã post 15, xuất đã post 8. Tồn cuối?",
+    "options": [
+      {
+        "id": "b",
+        "text": "43",
+        "explanation": "Chưa đúng. 20 + 15 − 8 = 27. 43 cộng nhầm xuất; 12 bỏ qua lần nhập đã ghi sổ."
+      },
+      {
+        "id": "c",
+        "text": "12",
+        "explanation": "Chưa đúng. 20 + 15 − 8 = 27. 43 cộng nhầm xuất; 12 bỏ qua lần nhập đã ghi sổ."
+      },
+      {
+        "id": "a",
+        "text": "27",
+        "explanation": "Đúng. 20 + 15 − 8 = 27. 43 cộng nhầm xuất; 12 bỏ qua lần nhập đã ghi sổ."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "20 + 15 − 8 = 27. 43 cộng nhầm xuất; 12 bỏ qua lần nhập đã ghi sổ."
+  },
+  {
+    "id": "L06-Q2",
+    "lessonId": "L06",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "posting"
+    ],
+    "question": "Lưu Draft phiếu nhập 15 khi tồn 20. Tồn mới?",
+    "options": [
+      {
+        "id": "c",
+        "text": "15",
+        "explanation": "Chưa đúng. Draft chỉ lưu chứng từ, chưa tạo movement. 35 là sau post; 15 là lượng nhập chứ không phải tồn cuối."
+      },
+      {
+        "id": "a",
+        "text": "20",
+        "explanation": "Đúng. Draft chỉ lưu chứng từ, chưa tạo movement. 35 là sau post; 15 là lượng nhập chứ không phải tồn cuối."
+      },
+      {
+        "id": "b",
+        "text": "35",
+        "explanation": "Chưa đúng. Draft chỉ lưu chứng từ, chưa tạo movement. 35 là sau post; 15 là lượng nhập chứ không phải tồn cuối."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Draft chỉ lưu chứng từ, chưa tạo movement. 35 là sau post; 15 là lượng nhập chứ không phải tồn cuối."
+  },
+  {
+    "id": "L06-Q3",
+    "lessonId": "L06",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "integrity"
+    ],
+    "question": "Tồn 27, xuất 40 khi không cho phép âm kho. Hệ thống phải làm gì?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Từ chối và giữ tồn 27",
+        "explanation": "Đúng. Phải báo thiếu tồn và giữ nguyên dữ liệu. Tự sửa lượng hoặc cho âm trái quy tắc đều sai."
+      },
+      {
+        "id": "b",
+        "text": "Chấp nhận tồn −13",
+        "explanation": "Chưa đúng. Phải báo thiếu tồn và giữ nguyên dữ liệu. Tự sửa lượng hoặc cho âm trái quy tắc đều sai."
+      },
+      {
+        "id": "c",
+        "text": "Âm thầm đổi lượng xuất thành 27",
+        "explanation": "Chưa đúng. Phải báo thiếu tồn và giữ nguyên dữ liệu. Tự sửa lượng hoặc cho âm trái quy tắc đều sai."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Phải báo thiếu tồn và giữ nguyên dữ liệu. Tự sửa lượng hoặc cho âm trái quy tắc đều sai."
+  },
+  {
+    "id": "L06-Q4",
+    "lessonId": "L06",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "stock"
+    ],
+    "question": "Bấm Post hai lần cùng một phiếu phải dẫn tới điều gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Cộng kho hai lần",
+        "explanation": "Chưa đúng. Idempotence bảo đảm lặp thao tác không ghi nhận hai lần cùng sự kiện."
+      },
+      {
+        "id": "c",
+        "text": "Tự nhân đôi lượng trên phiếu",
+        "explanation": "Chưa đúng. Idempotence bảo đảm lặp thao tác không ghi nhận hai lần cùng sự kiện."
+      },
+      {
+        "id": "a",
+        "text": "Không tạo biến động trùng",
+        "explanation": "Đúng. Idempotence bảo đảm lặp thao tác không ghi nhận hai lần cùng sự kiện."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Idempotence bảo đảm lặp thao tác không ghi nhận hai lần cùng sự kiện."
+  },
+  {
+    "id": "L06-Q5",
+    "lessonId": "L06",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "posting"
+    ],
+    "question": "Muốn tính giá trị tồn 27 bàn phím cần gì?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Chỉ mã sản phẩm",
+        "explanation": "Chưa đúng. Số lượng không cho biết giá trị. Giá bán gồm phần khác giá vốn; mã sản phẩm chỉ định danh."
+      },
+      {
+        "id": "a",
+        "text": "Giá vốn và phương pháp định giá phù hợp",
+        "explanation": "Đúng. Số lượng không cho biết giá trị. Giá bán gồm phần khác giá vốn; mã sản phẩm chỉ định danh."
+      },
+      {
+        "id": "b",
+        "text": "Chỉ giá bán lẻ hiện tại",
+        "explanation": "Chưa đúng. Số lượng không cho biết giá trị. Giá bán gồm phần khác giá vốn; mã sản phẩm chỉ định danh."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Số lượng không cho biết giá trị. Giá bán gồm phần khác giá vốn; mã sản phẩm chỉ định danh."
+  },
+  {
+    "id": "L07-Q1",
+    "lessonId": "L07",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "platform"
+    ],
+    "question": "Platform khác Configuration thế nào?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Hai tên cho cùng một đơn bán",
+        "explanation": "Chưa đúng. Một nền tảng có thể chạy nhiều thiết kế ứng dụng. Cả hai không phải bản ghi đơn bán hay người dùng."
+      },
+      {
+        "id": "c",
+        "text": "Configuration là một người dùng",
+        "explanation": "Chưa đúng. Một nền tảng có thể chạy nhiều thiết kế ứng dụng. Cả hai không phải bản ghi đơn bán hay người dùng."
+      },
+      {
+        "id": "a",
+        "text": "Platform cung cấp môi trường, Configuration mô tả ứng dụng cụ thể",
+        "explanation": "Đúng. Một nền tảng có thể chạy nhiều thiết kế ứng dụng. Cả hai không phải bản ghi đơn bán hay người dùng."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Một nền tảng có thể chạy nhiều thiết kế ứng dụng. Cả hai không phải bản ghi đơn bán hay người dùng."
+  },
+  {
+    "id": "L07-Q2",
+    "lessonId": "L07",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "configuration"
+    ],
+    "question": "Muốn thêm thiết kế Catalog.Products nên dùng gì?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Báo cáo tồn kho",
+        "explanation": "Chưa đúng. Designer chỉnh cấu trúc metadata. Enterprise mode chạy nghiệp vụ; báo cáo trình bày dữ liệu."
+      },
+      {
+        "id": "a",
+        "text": "Designer",
+        "explanation": "Đúng. Designer chỉnh cấu trúc metadata. Enterprise mode chạy nghiệp vụ; báo cáo trình bày dữ liệu."
+      },
+      {
+        "id": "b",
+        "text": "Enterprise mode của nhân viên bán hàng",
+        "explanation": "Chưa đúng. Designer chỉnh cấu trúc metadata. Enterprise mode chạy nghiệp vụ; báo cáo trình bày dữ liệu."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Designer chỉnh cấu trúc metadata. Enterprise mode chạy nghiệp vụ; báo cáo trình bày dữ liệu."
+  },
+  {
+    "id": "L07-Q3",
+    "lessonId": "L07",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "modes"
+    ],
+    "question": "Nhân viên tạo phiếu bán hàng thường dùng chế độ nào?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Enterprise mode",
+        "explanation": "Đúng. Người dùng làm nghiệp vụ trong ứng dụng; Designer và sửa database không phải thao tác bán hàng thông thường."
+      },
+      {
+        "id": "b",
+        "text": "Designer",
+        "explanation": "Chưa đúng. Người dùng làm nghiệp vụ trong ứng dụng; Designer và sửa database không phải thao tác bán hàng thông thường."
+      },
+      {
+        "id": "c",
+        "text": "Trình chỉnh sửa cấu trúc database trực tiếp",
+        "explanation": "Chưa đúng. Người dùng làm nghiệp vụ trong ứng dụng; Designer và sửa database không phải thao tác bán hàng thông thường."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Người dùng làm nghiệp vụ trong ứng dụng; Designer và sửa database không phải thao tác bán hàng thông thường."
+  },
+  {
+    "id": "L07-Q4",
+    "lessonId": "L07",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "platform"
+    ],
+    "question": "Low-code có nghĩa gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Không bao giờ cần lập trình",
+        "explanation": "Chưa đúng. Cấu hình tiết kiệm công sức nhưng không xóa logic, kiểm tra dữ liệu và yêu cầu nghiệp vụ."
+      },
+      {
+        "id": "c",
+        "text": "Không cần hiểu nghiệp vụ",
+        "explanation": "Chưa đúng. Cấu hình tiết kiệm công sức nhưng không xóa logic, kiểm tra dữ liệu và yêu cầu nghiệp vụ."
+      },
+      {
+        "id": "a",
+        "text": "Giảm lượng mã nhờ công cụ cấu hình, vẫn cần thiết kế logic",
+        "explanation": "Đúng. Cấu hình tiết kiệm công sức nhưng không xóa logic, kiểm tra dữ liệu và yêu cầu nghiệp vụ."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Cấu hình tiết kiệm công sức nhưng không xóa logic, kiểm tra dữ liệu và yêu cầu nghiệp vụ."
+  },
+  {
+    "id": "L07-Q5",
+    "lessonId": "L07",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "configuration"
+    ],
+    "question": "Một configuration cửa hàng có thể bao gồm gì?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Chỉ bộ cài hệ điều hành",
+        "explanation": "Chưa đúng. Configuration định nghĩa ứng dụng, rộng hơn bản ghi; hệ điều hành không phải configuration nghiệp vụ 1C."
+      },
+      {
+        "id": "a",
+        "text": "Danh mục, chứng từ, báo cáo và logic nghiệp vụ",
+        "explanation": "Đúng. Configuration định nghĩa ứng dụng, rộng hơn bản ghi; hệ điều hành không phải configuration nghiệp vụ 1C."
+      },
+      {
+        "id": "b",
+        "text": "Chỉ một bản ghi khách hàng",
+        "explanation": "Chưa đúng. Configuration định nghĩa ứng dụng, rộng hơn bản ghi; hệ điều hành không phải configuration nghiệp vụ 1C."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Configuration định nghĩa ứng dụng, rộng hơn bản ghi; hệ điều hành không phải configuration nghiệp vụ 1C."
+  },
+  {
+    "id": "L08-Q1",
+    "lessonId": "L08",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "infobase"
+    ],
+    "question": "Infobase chứa gì ở mức khái niệm?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Chỉ một bảng sản phẩm",
+        "explanation": "Chưa đúng. Infobase là không gian ứng dụng, không chỉ một Catalog hay ảnh."
+      },
+      {
+        "id": "c",
+        "text": "Chỉ ảnh giao diện",
+        "explanation": "Chưa đúng. Infobase là không gian ứng dụng, không chỉ một Catalog hay ảnh."
+      },
+      {
+        "id": "a",
+        "text": "Cấu hình và dữ liệu nghiệp vụ",
+        "explanation": "Đúng. Infobase là không gian ứng dụng, không chỉ một Catalog hay ảnh."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Infobase là không gian ứng dụng, không chỉ một Catalog hay ảnh."
+  },
+  {
+    "id": "L08-Q2",
+    "lessonId": "L08",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "metadata"
+    ],
+    "question": "Catalog.Products là gì?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Bản ghi KB-01 cụ thể",
+        "explanation": "Chưa đúng. Catalog là loại; Catalog.Products là thiết kế cụ thể; KB-01 là dữ liệu trong thiết kế đó."
+      },
+      {
+        "id": "a",
+        "text": "Metadata object",
+        "explanation": "Đúng. Catalog là loại; Catalog.Products là thiết kế cụ thể; KB-01 là dữ liệu trong thiết kế đó."
+      },
+      {
+        "id": "b",
+        "text": "Metadata class Catalog",
+        "explanation": "Chưa đúng. Catalog là loại; Catalog.Products là thiết kế cụ thể; KB-01 là dữ liệu trong thiết kế đó."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Catalog là loại; Catalog.Products là thiết kế cụ thể; KB-01 là dữ liệu trong thiết kế đó."
+  },
+  {
+    "id": "L08-Q3",
+    "lessonId": "L08",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "data-object"
+    ],
+    "question": "“KB-01 Bàn phím” được người dùng nhập là gì?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data record",
+        "explanation": "Đúng. Một sản phẩm cụ thể là bản ghi; class và platform nằm ở cấp thiết kế/công cụ."
+      },
+      {
+        "id": "b",
+        "text": "Metadata class",
+        "explanation": "Chưa đúng. Một sản phẩm cụ thể là bản ghi; class và platform nằm ở cấp thiết kế/công cụ."
+      },
+      {
+        "id": "c",
+        "text": "Toàn bộ Platform",
+        "explanation": "Chưa đúng. Một sản phẩm cụ thể là bản ghi; class và platform nằm ở cấp thiết kế/công cụ."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Một sản phẩm cụ thể là bản ghi; class và platform nằm ở cấp thiết kế/công cụ."
+  },
+  {
+    "id": "L08-Q4",
+    "lessonId": "L08",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "infobase"
+    ],
+    "question": "Muốn tạo infobase trống, thao tác hợp lý là gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Chỉ đổi tên file ảnh",
+        "explanation": "Chưa đúng. Infobase được tạo trong công cụ 1C. Sandbox là mô phỏng web, không cài hay tạo 1C thật."
+      },
+      {
+        "id": "c",
+        "text": "Bấm Reset sandbox web là tạo 1C thật",
+        "explanation": "Chưa đúng. Infobase được tạo trong công cụ 1C. Sandbox là mô phỏng web, không cài hay tạo 1C thật."
+      },
+      {
+        "id": "a",
+        "text": "Add → Create an Infobase → đặt tên → mở Designer",
+        "explanation": "Đúng. Infobase được tạo trong công cụ 1C. Sandbox là mô phỏng web, không cài hay tạo 1C thật."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Infobase được tạo trong công cụ 1C. Sandbox là mô phỏng web, không cài hay tạo 1C thật."
+  },
+  {
+    "id": "L08-Q5",
+    "lessonId": "L08",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "metadata"
+    ],
+    "question": "Tạo infobase trống có tự sinh Catalog.Products không?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Có, chỉ cần tạo một khách hàng",
+        "explanation": "Chưa đúng. Một infobase trống chưa chứa thiết kế nghiệp vụ này. Bản ghi khách không tạo metadata Products."
+      },
+      {
+        "id": "a",
+        "text": "Không, cần định nghĩa trong configuration",
+        "explanation": "Đúng. Một infobase trống chưa chứa thiết kế nghiệp vụ này. Bản ghi khách không tạo metadata Products."
+      },
+      {
+        "id": "b",
+        "text": "Có, mọi infobase luôn có Products",
+        "explanation": "Chưa đúng. Một infobase trống chưa chứa thiết kế nghiệp vụ này. Bản ghi khách không tạo metadata Products."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Một infobase trống chưa chứa thiết kế nghiệp vụ này. Bản ghi khách không tạo metadata Products."
+  },
+  {
+    "id": "L09-Q1",
+    "lessonId": "L09",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "catalog"
+    ],
+    "question": "Catalog phù hợp nhất để chứa gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Mỗi lần xuất kho",
+        "explanation": "Chưa đúng. Catalog chứa thực thể tham chiếu. Xuất kho và thanh toán là sự kiện phù hợp với chứng từ."
+      },
+      {
+        "id": "c",
+        "text": "Mỗi lần thanh toán khách",
+        "explanation": "Chưa đúng. Catalog chứa thực thể tham chiếu. Xuất kho và thanh toán là sự kiện phù hợp với chứng từ."
+      },
+      {
+        "id": "a",
+        "text": "Danh mục sản phẩm dùng lại trong giao dịch",
+        "explanation": "Đúng. Catalog chứa thực thể tham chiếu. Xuất kho và thanh toán là sự kiện phù hợp với chứng từ."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Catalog chứa thực thể tham chiếu. Xuất kho và thanh toán là sự kiện phù hợp với chứng từ."
+  },
+  {
+    "id": "L09-Q2",
+    "lessonId": "L09",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "attributes"
+    ],
+    "question": "Attribute là gì?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Quyền quản trị toàn hệ thống",
+        "explanation": "Chưa đúng. Attribute mô tả dữ liệu; posting là thao tác, role là quyền."
+      },
+      {
+        "id": "a",
+        "text": "Thuộc tính như tên, đơn vị hoặc giá của đối tượng",
+        "explanation": "Đúng. Attribute mô tả dữ liệu; posting là thao tác, role là quyền."
+      },
+      {
+        "id": "b",
+        "text": "Một lần post phiếu",
+        "explanation": "Chưa đúng. Attribute mô tả dữ liệu; posting là thao tác, role là quyền."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Attribute mô tả dữ liệu; posting là thao tác, role là quyền."
+  },
+  {
+    "id": "L09-Q3",
+    "lessonId": "L09",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "reference"
+    ],
+    "question": "Reference từ dòng phiếu đến Products giúp gì?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tham chiếu đúng một sản phẩm dùng chung",
+        "explanation": "Đúng. Tham chiếu bảo đảm liên kết định danh; không tự thực hiện giao nhận hay nhân bản dữ liệu tùy ý."
+      },
+      {
+        "id": "b",
+        "text": "Tạo bản sao tên tùy ý không liên kết",
+        "explanation": "Chưa đúng. Tham chiếu bảo đảm liên kết định danh; không tự thực hiện giao nhận hay nhân bản dữ liệu tùy ý."
+      },
+      {
+        "id": "c",
+        "text": "Tự động nhận hàng vật lý",
+        "explanation": "Chưa đúng. Tham chiếu bảo đảm liên kết định danh; không tự thực hiện giao nhận hay nhân bản dữ liệu tùy ý."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Tham chiếu bảo đảm liên kết định danh; không tự thực hiện giao nhận hay nhân bản dữ liệu tùy ý."
+  },
+  {
+    "id": "L09-Q4",
+    "lessonId": "L09",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "catalog"
+    ],
+    "question": "Subsystem có vai trò gì ở mức cơ bản?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Thay thế mọi cơ chế phân quyền",
+        "explanation": "Chưa đúng. Subsystem tổ chức chức năng; quyền vẫn cần Roles và tồn thay đổi qua nghiệp vụ."
+      },
+      {
+        "id": "c",
+        "text": "Tự ghi tăng tồn kho",
+        "explanation": "Chưa đúng. Subsystem tổ chức chức năng; quyền vẫn cần Roles và tồn thay đổi qua nghiệp vụ."
+      },
+      {
+        "id": "a",
+        "text": "Nhóm chức năng để tổ chức ứng dụng",
+        "explanation": "Đúng. Subsystem tổ chức chức năng; quyền vẫn cần Roles và tồn thay đổi qua nghiệp vụ."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Subsystem tổ chức chức năng; quyền vẫn cần Roles và tồn thay đổi qua nghiệp vụ."
+  },
+  {
+    "id": "L09-Q5",
+    "lessonId": "L09",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "attributes"
+    ],
+    "question": "Đã có KB-01, nhập thêm sản phẩm cùng mã trong sandbox nên thế nào?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Ghi đè âm thầm sản phẩm cũ",
+        "explanation": "Chưa đúng. Khóa định danh phải duy nhất. Trùng hoặc ghi đè không thông báo làm hỏng tham chiếu."
+      },
+      {
+        "id": "a",
+        "text": "Báo trùng mã và không tạo bản ghi mới",
+        "explanation": "Đúng. Khóa định danh phải duy nhất. Trùng hoặc ghi đè không thông báo làm hỏng tham chiếu."
+      },
+      {
+        "id": "b",
+        "text": "Tạo hai sản phẩm cùng mã",
+        "explanation": "Chưa đúng. Khóa định danh phải duy nhất. Trùng hoặc ghi đè không thông báo làm hỏng tham chiếu."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Khóa định danh phải duy nhất. Trùng hoặc ghi đè không thông báo làm hỏng tham chiếu."
+  },
+  {
+    "id": "L10-Q1",
+    "lessonId": "L10",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "document"
+    ],
+    "question": "Tabular Section dùng cho việc gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Chỉ chứa tên người đăng nhập",
+        "explanation": "Chưa đúng. Một chứng từ có phần đầu và nhiều dòng chi tiết, không cần infobase riêng."
+      },
+      {
+        "id": "c",
+        "text": "Bắt buộc tách mỗi dòng thành một infobase",
+        "explanation": "Chưa đúng. Một chứng từ có phần đầu và nhiều dòng chi tiết, không cần infobase riêng."
+      },
+      {
+        "id": "a",
+        "text": "Chứa nhiều dòng hàng trong một chứng từ",
+        "explanation": "Đúng. Một chứng từ có phần đầu và nhiều dòng chi tiết, không cần infobase riêng."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Một chứng từ có phần đầu và nhiều dòng chi tiết, không cần infobase riêng."
+  },
+  {
+    "id": "L10-Q2",
+    "lessonId": "L10",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "draft"
+    ],
+    "question": "Phiếu nhập đã lưu nhưng tồn không tăng. Nguyên nhân hợp lý trong sandbox?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Chưa mở báo cáo đủ hai lần",
+        "explanation": "Chưa đúng. Tồn tính từ movement khi post; màu giao diện hay số lần mở báo cáo không tạo movement."
+      },
+      {
+        "id": "a",
+        "text": "Phiếu vẫn Draft, chưa Post",
+        "explanation": "Đúng. Tồn tính từ movement khi post; màu giao diện hay số lần mở báo cáo không tạo movement."
+      },
+      {
+        "id": "b",
+        "text": "Catalog bị đổi màu",
+        "explanation": "Chưa đúng. Tồn tính từ movement khi post; màu giao diện hay số lần mở báo cáo không tạo movement."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Tồn tính từ movement khi post; màu giao diện hay số lần mở báo cáo không tạo movement."
+  },
+  {
+    "id": "L10-Q3",
+    "lessonId": "L10",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "posting"
+    ],
+    "question": "Posting thực hiện điều gì?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ghi nhận tác động nghiệp vụ theo cấu hình",
+        "explanation": "Đúng. Tác động posting do cấu hình quyết định; không mặc định gửi email hay đổi master data."
+      },
+      {
+        "id": "b",
+        "text": "Luôn gửi email cho mọi người",
+        "explanation": "Chưa đúng. Tác động posting do cấu hình quyết định; không mặc định gửi email hay đổi master data."
+      },
+      {
+        "id": "c",
+        "text": "Chỉ đổi tên sản phẩm",
+        "explanation": "Chưa đúng. Tác động posting do cấu hình quyết định; không mặc định gửi email hay đổi master data."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Tác động posting do cấu hình quyết định; không mặc định gửi email hay đổi master data."
+  },
+  {
+    "id": "L10-Q4",
+    "lessonId": "L10",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "document"
+    ],
+    "question": "Document Journal khác Register thế nào?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Cả hai luôn là cùng một bảng",
+        "explanation": "Chưa đúng. Danh sách chứng từ không phải nơi tự sinh movement; xem danh sách không tác động tồn."
+      },
+      {
+        "id": "c",
+        "text": "Journal tự động cộng tồn chỉ vì xem nó",
+        "explanation": "Chưa đúng. Danh sách chứng từ không phải nơi tự sinh movement; xem danh sách không tác động tồn."
+      },
+      {
+        "id": "a",
+        "text": "Journal tập hợp chứng từ; Register lưu dữ liệu nghiệp vụ theo thiết kế",
+        "explanation": "Đúng. Danh sách chứng từ không phải nơi tự sinh movement; xem danh sách không tác động tồn."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Danh sách chứng từ không phải nơi tự sinh movement; xem danh sách không tác động tồn."
+  },
+  {
+    "id": "L10-Q5",
+    "lessonId": "L10",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "draft"
+    ],
+    "question": "Phiếu nhập có sản phẩm không tồn tại nên xử lý thế nào?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Bỏ qua dòng lỗi rồi vẫn báo thành công toàn phiếu",
+        "explanation": "Chưa đúng. Kiểm tra tham chiếu bảo vệ dữ liệu. Không âm thầm tự tạo hay bỏ dòng khi người học chưa đồng ý."
+      },
+      {
+        "id": "a",
+        "text": "Từ chối đến khi chọn sản phẩm hợp lệ",
+        "explanation": "Đúng. Kiểm tra tham chiếu bảo vệ dữ liệu. Không âm thầm tự tạo hay bỏ dòng khi người học chưa đồng ý."
+      },
+      {
+        "id": "b",
+        "text": "Tự tạo mã bất kỳ và post",
+        "explanation": "Chưa đúng. Kiểm tra tham chiếu bảo vệ dữ liệu. Không âm thầm tự tạo hay bỏ dòng khi người học chưa đồng ý."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Kiểm tra tham chiếu bảo vệ dữ liệu. Không âm thầm tự tạo hay bỏ dòng khi người học chưa đồng ý."
+  },
+  {
+    "id": "L11-Q1",
+    "lessonId": "L11",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "register"
+    ],
+    "question": "Dimension của register tồn theo mặt hàng và kho là gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Quantity",
+        "explanation": "Chưa đúng. Dimensions là các chiều nhóm; Quantity là Resource; màu nút là giao diện."
+      },
+      {
+        "id": "c",
+        "text": "Màu nút Post",
+        "explanation": "Chưa đúng. Dimensions là các chiều nhóm; Quantity là Resource; màu nút là giao diện."
+      },
+      {
+        "id": "a",
+        "text": "Product và Warehouse",
+        "explanation": "Đúng. Dimensions là các chiều nhóm; Quantity là Resource; màu nút là giao diện."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Dimensions là các chiều nhóm; Quantity là Resource; màu nút là giao diện."
+  },
+  {
+    "id": "L11-Q2",
+    "lessonId": "L11",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "dimensions"
+    ],
+    "question": "Resource trong register tồn đơn giản là gì?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Product",
+        "explanation": "Chưa đúng. Resource là số liệu tích lũy. Product và Warehouse phân chia số liệu theo chiều."
+      },
+      {
+        "id": "a",
+        "text": "Quantity",
+        "explanation": "Đúng. Resource là số liệu tích lũy. Product và Warehouse phân chia số liệu theo chiều."
+      },
+      {
+        "id": "b",
+        "text": "Warehouse",
+        "explanation": "Chưa đúng. Resource là số liệu tích lũy. Product và Warehouse phân chia số liệu theo chiều."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Resource là số liệu tích lũy. Product và Warehouse phân chia số liệu theo chiều."
+  },
+  {
+    "id": "L11-Q3",
+    "lessonId": "L11",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "resources"
+    ],
+    "question": "Recorder cho biết điều gì?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Chứng từ nguồn sinh ra movement",
+        "explanation": "Đúng. Recorder truy vết nguồn nghiệp vụ, không phải thông tin đăng nhập hay bảng giá."
+      },
+      {
+        "id": "b",
+        "text": "Mật khẩu người dùng",
+        "explanation": "Chưa đúng. Recorder truy vết nguồn nghiệp vụ, không phải thông tin đăng nhập hay bảng giá."
+      },
+      {
+        "id": "c",
+        "text": "Giá bán hiện tại",
+        "explanation": "Chưa đúng. Recorder truy vết nguồn nghiệp vụ, không phải thông tin đăng nhập hay bảng giá."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Recorder truy vết nguồn nghiệp vụ, không phải thông tin đăng nhập hay bảng giá."
+  },
+  {
+    "id": "L11-Q4",
+    "lessonId": "L11",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "register"
+    ],
+    "question": "Bảng giá có hiệu lực theo ngày phù hợp loại nào?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Accumulation Register chỉ để cộng tồn",
+        "explanation": "Chưa đúng. Information Register lưu giá theo chiều/thời gian; tồn tích lũy hay danh sách chứng từ không thay bảng giá."
+      },
+      {
+        "id": "c",
+        "text": "Document Journal thay cho dữ liệu giá",
+        "explanation": "Chưa đúng. Information Register lưu giá theo chiều/thời gian; tồn tích lũy hay danh sách chứng từ không thay bảng giá."
+      },
+      {
+        "id": "a",
+        "text": "Information Register",
+        "explanation": "Đúng. Information Register lưu giá theo chiều/thời gian; tồn tích lũy hay danh sách chứng từ không thay bảng giá."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Information Register lưu giá theo chiều/thời gian; tồn tích lũy hay danh sách chứng từ không thay bảng giá."
+  },
+  {
+    "id": "L11-Q5",
+    "lessonId": "L11",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "dimensions"
+    ],
+    "question": "Movement +15 tại HN-01 có tự tăng tồn HCM-01 không?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Có, nếu tên sản phẩm giống nhau",
+        "explanation": "Chưa đúng. Kho là dimension nên phải tính đúng kho; cùng sản phẩm không đồng nghĩa cùng vị trí."
+      },
+      {
+        "id": "a",
+        "text": "Không, số liệu gắn chiều kho HN-01",
+        "explanation": "Đúng. Kho là dimension nên phải tính đúng kho; cùng sản phẩm không đồng nghĩa cùng vị trí."
+      },
+      {
+        "id": "b",
+        "text": "Có, mọi kho cùng tăng",
+        "explanation": "Chưa đúng. Kho là dimension nên phải tính đúng kho; cùng sản phẩm không đồng nghĩa cùng vị trí."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Kho là dimension nên phải tính đúng kho; cùng sản phẩm không đồng nghĩa cùng vị trí."
+  },
+  {
+    "id": "L12-Q1",
+    "lessonId": "L12",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "query"
+    ],
+    "question": "Query có vai trò gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Luôn là nơi lưu dữ liệu gốc",
+        "explanation": "Chưa đúng. Query yêu cầu dữ liệu; nguồn nằm ở dữ liệu ứng dụng và quyền vẫn được áp dụng riêng."
+      },
+      {
+        "id": "c",
+        "text": "Thay thế toàn bộ quyền người dùng",
+        "explanation": "Chưa đúng. Query yêu cầu dữ liệu; nguồn nằm ở dữ liệu ứng dụng và quyền vẫn được áp dụng riêng."
+      },
+      {
+        "id": "a",
+        "text": "Truy xuất và tổng hợp dữ liệu",
+        "explanation": "Đúng. Query yêu cầu dữ liệu; nguồn nằm ở dữ liệu ứng dụng và quyền vẫn được áp dụng riêng."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Query yêu cầu dữ liệu; nguồn nằm ở dữ liệu ứng dụng và quyền vẫn được áp dụng riêng."
+  },
+  {
+    "id": "L12-Q2",
+    "lessonId": "L12",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "report"
+    ],
+    "question": "Report có vai trò gì?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Thay thế mọi chứng từ",
+        "explanation": "Chưa đúng. Report đọc/trình bày; việc phát sinh movement thuộc nghiệp vụ chứng từ."
+      },
+      {
+        "id": "a",
+        "text": "Trình bày thông tin giúp ra quyết định",
+        "explanation": "Đúng. Report đọc/trình bày; việc phát sinh movement thuộc nghiệp vụ chứng từ."
+      },
+      {
+        "id": "b",
+        "text": "Luôn trực tiếp ghi tăng kho",
+        "explanation": "Chưa đúng. Report đọc/trình bày; việc phát sinh movement thuộc nghiệp vụ chứng từ."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Report đọc/trình bày; việc phát sinh movement thuộc nghiệp vụ chứng từ."
+  },
+  {
+    "id": "L12-Q3",
+    "lessonId": "L12",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "roles"
+    ],
+    "question": "Form khác Role thế nào?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Form là giao diện tương tác; Role quy định quyền",
+        "explanation": "Đúng. Giao diện và quyền là hai trách nhiệm khác nhau; role liên quan quyền thật, không chỉ hình thức."
+      },
+      {
+        "id": "b",
+        "text": "Form và Role đều là phiếu nhập",
+        "explanation": "Chưa đúng. Giao diện và quyền là hai trách nhiệm khác nhau; role liên quan quyền thật, không chỉ hình thức."
+      },
+      {
+        "id": "c",
+        "text": "Role chỉ đổi màu màn hình",
+        "explanation": "Chưa đúng. Giao diện và quyền là hai trách nhiệm khác nhau; role liên quan quyền thật, không chỉ hình thức."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Giao diện và quyền là hai trách nhiệm khác nhau; role liên quan quyền thật, không chỉ hình thức."
+  },
+  {
+    "id": "L12-Q4",
+    "lessonId": "L12",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "query"
+    ],
+    "question": "Chuỗi nào phù hợp với mini ERP?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Report → màu nền → mật khẩu",
+        "explanation": "Chưa đúng. Danh mục được chứng từ tham chiếu; post tạo dữ liệu register; báo cáo đọc kết quả."
+      },
+      {
+        "id": "c",
+        "text": "Catalog → chấm công → ảnh đại diện",
+        "explanation": "Chưa đúng. Danh mục được chứng từ tham chiếu; post tạo dữ liệu register; báo cáo đọc kết quả."
+      },
+      {
+        "id": "a",
+        "text": "Catalog → Document → Register → Report",
+        "explanation": "Đúng. Danh mục được chứng từ tham chiếu; post tạo dữ liệu register; báo cáo đọc kết quả."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Danh mục được chứng từ tham chiếu; post tạo dữ liệu register; báo cáo đọc kết quả."
+  },
+  {
+    "id": "L12-Q5",
+    "lessonId": "L12",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "report"
+    ],
+    "question": "Nhân viên bán chỉ cần xem tồn, không được ghi sổ. Cấp quyền nào?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Ẩn nút nhưng vẫn cho API Post không kiểm tra",
+        "explanation": "Chưa đúng. Quyền phải kiểm soát thao tác thực, không chỉ ẩn giao diện hay cấp quá mức."
+      },
+      {
+        "id": "a",
+        "text": "Quyền xem báo cáo tồn, không quyền Post",
+        "explanation": "Đúng. Quyền phải kiểm soát thao tác thực, không chỉ ẩn giao diện hay cấp quá mức."
+      },
+      {
+        "id": "b",
+        "text": "Quyền quản trị toàn hệ thống",
+        "explanation": "Chưa đúng. Quyền phải kiểm soát thao tác thực, không chỉ ẩn giao diện hay cấp quá mức."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Quyền phải kiểm soát thao tác thực, không chỉ ẩn giao diện hay cấp quá mức."
+  },
+  {
+    "id": "L13-Q1",
+    "lessonId": "L13",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "recap"
+    ],
+    "question": "Đã đặt mua 15 nhưng chưa nhận, tồn đầu 20 và đã xuất 8. Tồn là bao nhiêu?",
+    "options": [
+      {
+        "id": "b",
+        "text": "27",
+        "explanation": "Chưa đúng. PO chưa là nhập kho: 20−8=12. 27 chỉ đúng khi đã ghi nhận nhập 15; 35 bỏ qua xuất."
+      },
+      {
+        "id": "c",
+        "text": "35",
+        "explanation": "Chưa đúng. PO chưa là nhập kho: 20−8=12. 27 chỉ đúng khi đã ghi nhận nhập 15; 35 bỏ qua xuất."
+      },
+      {
+        "id": "a",
+        "text": "12",
+        "explanation": "Đúng. PO chưa là nhập kho: 20−8=12. 27 chỉ đúng khi đã ghi nhận nhập 15; 35 bỏ qua xuất."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "PO chưa là nhập kho: 20−8=12. 27 chỉ đúng khi đã ghi nhận nhập 15; 35 bỏ qua xuất."
+  },
+  {
+    "id": "L13-Q2",
+    "lessonId": "L13",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "posting"
+    ],
+    "question": "Cặp nào phân biệt thực thể và sự kiện?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Report và cỡ chữ",
+        "explanation": "Chưa đúng. Catalog chứa thực thể tham chiếu, Document ghi nhận sự kiện. Các cặp còn lại không so sánh cùng cấp nghiệp vụ."
+      },
+      {
+        "id": "a",
+        "text": "Catalog và Document",
+        "explanation": "Đúng. Catalog chứa thực thể tham chiếu, Document ghi nhận sự kiện. Các cặp còn lại không so sánh cùng cấp nghiệp vụ."
+      },
+      {
+        "id": "b",
+        "text": "Designer và màu nền",
+        "explanation": "Chưa đúng. Catalog chứa thực thể tham chiếu, Document ghi nhận sự kiện. Các cặp còn lại không so sánh cùng cấp nghiệp vụ."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Catalog chứa thực thể tham chiếu, Document ghi nhận sự kiện. Các cặp còn lại không so sánh cùng cấp nghiệp vụ."
+  },
+  {
+    "id": "L13-Q3",
+    "lessonId": "L13",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "workflow"
+    ],
+    "question": "Gặp câu hỏi có từ “luôn”, “chỉ”, nên làm gì?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kiểm tra điều kiện và phạm vi khẳng định",
+        "explanation": "Đúng. Khẳng định tuyệt đối cần xét điều kiện, không thể tự động đúng hay phải bỏ câu."
+      },
+      {
+        "id": "b",
+        "text": "Luôn chọn vì nghe chắc chắn",
+        "explanation": "Chưa đúng. Khẳng định tuyệt đối cần xét điều kiện, không thể tự động đúng hay phải bỏ câu."
+      },
+      {
+        "id": "c",
+        "text": "Luôn bỏ qua câu hỏi",
+        "explanation": "Chưa đúng. Khẳng định tuyệt đối cần xét điều kiện, không thể tự động đúng hay phải bỏ câu."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Khẳng định tuyệt đối cần xét điều kiện, không thể tự động đúng hay phải bỏ câu."
+  },
+  {
+    "id": "L13-Q4",
+    "lessonId": "L13",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "recap"
+    ],
+    "question": "Chữa câu sai nên tập trung vào gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Chỉ nhớ vị trí A/B/C",
+        "explanation": "Chưa đúng. Hiểu quy tắc chuyển được sang tình huống mới. Vị trí đáp án có thể đổi; tốc độ không sửa hiểu nhầm."
+      },
+      {
+        "id": "c",
+        "text": "Chỉ tăng tốc bấm chuột",
+        "explanation": "Chưa đúng. Hiểu quy tắc chuyển được sang tình huống mới. Vị trí đáp án có thể đổi; tốc độ không sửa hiểu nhầm."
+      },
+      {
+        "id": "a",
+        "text": "Giải thích quy tắc và vì sao từng lựa chọn sai",
+        "explanation": "Đúng. Hiểu quy tắc chuyển được sang tình huống mới. Vị trí đáp án có thể đổi; tốc độ không sửa hiểu nhầm."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Hiểu quy tắc chuyển được sang tình huống mới. Vị trí đáp án có thể đổi; tốc độ không sửa hiểu nhầm."
+  },
+  {
+    "id": "L13-Q5",
+    "lessonId": "L13",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "posting"
+    ],
+    "question": "Hai lần thi thử ≥85% có bảo đảm Top 10 không?",
+    "options": [
+      {
+        "id": "c",
+        "text": "Có, nếu làm trên cùng máy tính",
+        "explanation": "Chưa đúng. Đề tự biên soạn và thứ hạng thật phụ thuộc đề/đối thủ. Thiết bị không tạo bảo đảm."
+      },
+      {
+        "id": "a",
+        "text": "Không, chỉ là chỉ báo luyện tập",
+        "explanation": "Đúng. Đề tự biên soạn và thứ hạng thật phụ thuộc đề/đối thủ. Thiết bị không tạo bảo đảm."
+      },
+      {
+        "id": "b",
+        "text": "Có, chắc chắn",
+        "explanation": "Chưa đúng. Đề tự biên soạn và thứ hạng thật phụ thuộc đề/đối thủ. Thiết bị không tạo bảo đảm."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Đề tự biên soạn và thứ hạng thật phụ thuộc đề/đối thủ. Thiết bị không tạo bảo đảm."
+  },
+  {
+    "id": "L01-Q6",
+    "lessonId": "L01",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "shared-data"
+    ],
+    "question": "Một hệ thống ERP tích hợp giúp ích gì cho việc đối soát giữa các phòng ban?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giảm thời gian đối chiếu số liệu thủ công và phát hiện chênh lệch sớm",
+        "explanation": "Đúng. Dữ liệu tích hợp giúp số liệu minh bạch và phát hiện sai sót nhanh hơn; kiểm toán vẫn cần thiết và không được phép sửa tùy tiện."
+      },
+      {
+        "id": "b",
+        "text": "Loại bỏ hoàn toàn nhu cầu kiểm toán định kỳ",
+        "explanation": "Chưa đúng. Dữ liệu tích hợp giúp số liệu minh bạch và phát hiện sai sót nhanh hơn; kiểm toán vẫn cần thiết và không được phép sửa tùy tiện."
+      },
+      {
+        "id": "c",
+        "text": "Cho phép các bộ phận tự ý sửa số liệu của nhau mà không để lại dấu vết",
+        "explanation": "Chưa đúng. Dữ liệu tích hợp giúp số liệu minh bạch và phát hiện sai sót nhanh hơn; kiểm toán vẫn cần thiết và không được phép sửa tùy tiện."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Dữ liệu tích hợp giúp số liệu minh bạch và phát hiện sai sót nhanh hơn; kiểm toán vẫn cần thiết và không được phép sửa tùy tiện."
+  },
+  {
+    "id": "L01-Q7",
+    "lessonId": "L01",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "erp"
+    ],
+    "question": "Khi nào việc triển khai ERP dễ dẫn đến thất bại nhất?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Khi doanh nghiệp sử dụng máy tính cấu hình quá cao",
+        "explanation": "Chưa đúng. Yếu tố con người và sự chuẩn hóa quy trình là nguyên nhân cốt lõi; thiết bị mạnh hay số lượng nhà thầu không gây thất bại dự án."
+      },
+      {
+        "id": "c",
+        "text": "Khi có quá nhiều nhà cung cấp tham gia chào giá phần mềm",
+        "explanation": "Chưa đúng. Yếu tố con người và sự chuẩn hóa quy trình là nguyên nhân cốt lõi; thiết bị mạnh hay số lượng nhà thầu không gây thất bại dự án."
+      },
+      {
+        "id": "a",
+        "text": "Khi doanh nghiệp không chuẩn hóa quy trình và thiếu đào tạo người dùng",
+        "explanation": "Đúng. Yếu tố con người và sự chuẩn hóa quy trình là nguyên nhân cốt lõi; thiết bị mạnh hay số lượng nhà thầu không gây thất bại dự án."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Yếu tố con người và sự chuẩn hóa quy trình là nguyên nhân cốt lõi; thiết bị mạnh hay số lượng nhà thầu không gây thất bại dự án."
+  },
+  {
+    "id": "L02-Q6",
+    "lessonId": "L02",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "scm"
+    ],
+    "question": "Khi một đơn hàng bán thành công được giao cho khách, phân hệ nào ghi nhận khoản phải thu (Accounts Receivable)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Finance/Accounting",
+        "explanation": "Đúng. Khoản phải thu là nghiệp vụ tài chính - kế toán; HRM quản lý nhân sự và Production quản lý sản xuất."
+      },
+      {
+        "id": "b",
+        "text": "HRM",
+        "explanation": "Chưa đúng. Khoản phải thu là nghiệp vụ tài chính - kế toán; HRM quản lý nhân sự và Production quản lý sản xuất."
+      },
+      {
+        "id": "c",
+        "text": "Production",
+        "explanation": "Chưa đúng. Khoản phải thu là nghiệp vụ tài chính - kế toán; HRM quản lý nhân sự và Production quản lý sản xuất."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Khoản phải thu là nghiệp vụ tài chính - kế toán; HRM quản lý nhân sự và Production quản lý sản xuất."
+  },
+  {
+    "id": "L02-Q7",
+    "lessonId": "L02",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "modules"
+    ],
+    "question": "Điểm giao thoa điển hình giữa phân hệ Inventory (Kho) và Purchasing (Mua hàng) là gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Xếp lịch phỏng vấn nhân sự mới cho thủ kho",
+        "explanation": "Chưa đúng. Khi tồn kho xuống dưới ngưỡng an toàn, bộ phận mua hàng cần thông tin để phát hành đơn mua kịp thời."
+      },
+      {
+        "id": "c",
+        "text": "Thiết kế bao bì mẫu mã mới cho sản phẩm bán buôn",
+        "explanation": "Chưa đúng. Khi tồn kho xuống dưới ngưỡng an toàn, bộ phận mua hàng cần thông tin để phát hành đơn mua kịp thời."
+      },
+      {
+        "id": "a",
+        "text": "Theo dõi ngưỡng tồn kho tối thiểu để kích hoạt nhu cầu mua hàng",
+        "explanation": "Đúng. Khi tồn kho xuống dưới ngưỡng an toàn, bộ phận mua hàng cần thông tin để phát hành đơn mua kịp thời."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Khi tồn kho xuống dưới ngưỡng an toàn, bộ phận mua hàng cần thông tin để phát hành đơn mua kịp thời."
+  },
+  {
+    "id": "L03-Q6",
+    "lessonId": "L03",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "implementation"
+    ],
+    "question": "Tại sao bảng mã khách hàng (Customer Master Data) cần có một khóa định danh duy nhất (Unique ID)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tránh nhầm lẫn giữa các khách hàng trùng tên hoặc trùng địa chỉ",
+        "explanation": "Đúng. Tên và địa chỉ có thể trùng lặp hoặc viết sai chính tả; khóa định danh duy nhất giúp giao dịch gán đúng chủ thể."
+      },
+      {
+        "id": "b",
+        "text": "Để khách hàng tự động được giảm giá 50%",
+        "explanation": "Chưa đúng. Tên và địa chỉ có thể trùng lặp hoặc viết sai chính tả; khóa định danh duy nhất giúp giao dịch gán đúng chủ thể."
+      },
+      {
+        "id": "c",
+        "text": "Để không cần nhập số điện thoại khách hàng",
+        "explanation": "Chưa đúng. Tên và địa chỉ có thể trùng lặp hoặc viết sai chính tả; khóa định danh duy nhất giúp giao dịch gán đúng chủ thể."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Tên và địa chỉ có thể trùng lặp hoặc viết sai chính tả; khóa định danh duy nhất giúp giao dịch gán đúng chủ thể."
+  },
+  {
+    "id": "L03-Q7",
+    "lessonId": "L03",
+    "category": "erp",
+    "difficulty": "medium",
+    "tags": [
+      "master-data"
+    ],
+    "question": "Trong phân tích As-Is và To-Be, bước As-Is có mục đích chính là gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Cài đặt ngay cấu hình phần mềm vào máy chủ",
+        "explanation": "Chưa đúng. Phải nắm rõ hiện trạng và các vấn đề bất cập trước khi đề xuất quy trình mới (To-Be)."
+      },
+      {
+        "id": "c",
+        "text": "Ký biên bản nghiệm thu dự án ERP",
+        "explanation": "Chưa đúng. Phải nắm rõ hiện trạng và các vấn đề bất cập trước khi đề xuất quy trình mới (To-Be)."
+      },
+      {
+        "id": "a",
+        "text": "Hiểu rõ hiện trạng quy trình, điểm nghẽn và lãng phí đang tồn tại",
+        "explanation": "Đúng. Phải nắm rõ hiện trạng và các vấn đề bất cập trước khi đề xuất quy trình mới (To-Be)."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Phải nắm rõ hiện trạng và các vấn đề bất cập trước khi đề xuất quy trình mới (To-Be)."
+  },
+  {
+    "id": "L04-Q6",
+    "lessonId": "L04",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "payment"
+    ],
+    "question": "Trong quy trình Order-to-Cash, Credit Limit Check (Kiểm tra hạn mức tín dụng) thường diễn ra ở khâu nào?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Khi tiếp nhận hoặc phê duyệt Sales Order",
+        "explanation": "Đúng. Cần kiểm tra hạn mức nợ của khách trước khi duyệt bán để kiểm soát rủi ro nợ khó đòi."
+      },
+      {
+        "id": "b",
+        "text": "Sau khi đã thu tiền xong",
+        "explanation": "Chưa đúng. Cần kiểm tra hạn mức nợ của khách trước khi duyệt bán để kiểm soát rủi ro nợ khó đòi."
+      },
+      {
+        "id": "c",
+        "text": "Sau khi thanh lý hợp đồng cuối năm",
+        "explanation": "Chưa đúng. Cần kiểm tra hạn mức nợ của khách trước khi duyệt bán để kiểm soát rủi ro nợ khó đòi."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Cần kiểm tra hạn mức nợ của khách trước khi duyệt bán để kiểm soát rủi ro nợ khó đòi."
+  },
+  {
+    "id": "L04-Q7",
+    "lessonId": "L04",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "o2c"
+    ],
+    "question": "Chứng từ Goods Issue (Phiếu xuất kho) trong chu trình bán hàng chứng minh sự kiện gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Khách hàng đã chuyển tiền vào tài khoản ngân hàng",
+        "explanation": "Chưa đúng. Phiếu xuất kho xác nhận biến động giảm hàng tại kho; không chứng minh tiền đã về hay liên quan nhà cung cấp."
+      },
+      {
+        "id": "c",
+        "text": "Nhà cung cấp đã nhận được đơn đặt hàng",
+        "explanation": "Chưa đúng. Phiếu xuất kho xác nhận biến động giảm hàng tại kho; không chứng minh tiền đã về hay liên quan nhà cung cấp."
+      },
+      {
+        "id": "a",
+        "text": "Hàng hóa đã thực tế xuất khỏi kho để giao cho khách",
+        "explanation": "Đúng. Phiếu xuất kho xác nhận biến động giảm hàng tại kho; không chứng minh tiền đã về hay liên quan nhà cung cấp."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Phiếu xuất kho xác nhận biến động giảm hàng tại kho; không chứng minh tiền đã về hay liên quan nhà cung cấp."
+  },
+  {
+    "id": "L05-Q6",
+    "lessonId": "L05",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "roles"
+    ],
+    "question": "Nếu số lượng trên Invoice lớn hơn số lượng trên Goods Receipt trong đối chiếu 3-way match, rủi ro là gì?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Doanh nghiệp có thể trả tiền cho số lượng hàng chưa thực nhận",
+        "explanation": "Đúng. Hóa đơn tính tiền nhiều hơn số hàng thực tế giao đến, nếu duyệt chi sẽ gây thất thoát tiền."
+      },
+      {
+        "id": "b",
+        "text": "Kho sẽ bị thừa hàng mà không rõ nguyên nhân",
+        "explanation": "Chưa đúng. Hóa đơn tính tiền nhiều hơn số hàng thực tế giao đến, nếu duyệt chi sẽ gây thất thoát tiền."
+      },
+      {
+        "id": "c",
+        "text": "Nhà cung cấp bị mất hàng hóa miễn phí",
+        "explanation": "Chưa đúng. Hóa đơn tính tiền nhiều hơn số hàng thực tế giao đến, nếu duyệt chi sẽ gây thất thoát tiền."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Hóa đơn tính tiền nhiều hơn số hàng thực tế giao đến, nếu duyệt chi sẽ gây thất thoát tiền."
+  },
+  {
+    "id": "L05-Q7",
+    "lessonId": "L05",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "p2p"
+    ],
+    "question": "Purchase Requisition (Yêu cầu mua hàng) khác Purchase Order (Đơn mua hàng) ở điểm căn bản nào?",
+    "options": [
+      {
+        "id": "b",
+        "text": "PR do nhà cung cấp lập, PO do thủ kho ký duyệt",
+        "explanation": "Chưa đúng. PR chỉ lưu hành nội bộ để xin duyệt mua; PO mới là chứng từ gửi đối tác bên ngoài để đặt hàng."
+      },
+      {
+        "id": "c",
+        "text": "PR luôn dùng để xuất kho thanh lý tài sản",
+        "explanation": "Chưa đúng. PR chỉ lưu hành nội bộ để xin duyệt mua; PO mới là chứng từ gửi đối tác bên ngoài để đặt hàng."
+      },
+      {
+        "id": "a",
+        "text": "PR là nhu cầu nội bộ, PO là cam kết pháp lý gửi tới nhà cung cấp",
+        "explanation": "Đúng. PR chỉ lưu hành nội bộ để xin duyệt mua; PO mới là chứng từ gửi đối tác bên ngoài để đặt hàng."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "PR chỉ lưu hành nội bộ để xin duyệt mua; PO mới là chứng từ gửi đối tác bên ngoài để đặt hàng."
+  },
+  {
+    "id": "L06-Q6",
+    "lessonId": "L06",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "integrity"
+    ],
+    "question": "Tại sao hệ thống ERP cần cơ chế khóa Chặn xuất âm kho?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ngăn chặn việc xuất bán hàng hóa vượt quá số lượng thực tế đang có",
+        "explanation": "Đúng. Xuất âm kho gây sai lệch giá vốn và phản ánh không đúng thực tế vật lý trong kho."
+      },
+      {
+        "id": "b",
+        "text": "Để buộc thủ kho phải làm việc thêm giờ",
+        "explanation": "Chưa đúng. Xuất âm kho gây sai lệch giá vốn và phản ánh không đúng thực tế vật lý trong kho."
+      },
+      {
+        "id": "c",
+        "text": "Để tự động xóa các phiếu nhập kho cũ",
+        "explanation": "Chưa đúng. Xuất âm kho gây sai lệch giá vốn và phản ánh không đúng thực tế vật lý trong kho."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Xuất âm kho gây sai lệch giá vốn và phản ánh không đúng thực tế vật lý trong kho."
+  },
+  {
+    "id": "L06-Q7",
+    "lessonId": "L06",
+    "category": "business",
+    "difficulty": "medium",
+    "tags": [
+      "stock"
+    ],
+    "question": "Phương pháp tính giá xuất kho FIFO (First In First Out) có nguyên tắc là gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Lô hàng nhập sau cùng sẽ xuất trước",
+        "explanation": "Chưa đúng. FIFO xuất theo thứ tự thời gian nhập kho; không dùng giá bán lẻ để tính giá vốn tồn kho."
+      },
+      {
+        "id": "c",
+        "text": "Mọi lô hàng đều tính theo giá bán lẻ niêm yết",
+        "explanation": "Chưa đúng. FIFO xuất theo thứ tự thời gian nhập kho; không dùng giá bán lẻ để tính giá vốn tồn kho."
+      },
+      {
+        "id": "a",
+        "text": "Lô hàng nhập trước sẽ được tính giá xuất trước",
+        "explanation": "Đúng. FIFO xuất theo thứ tự thời gian nhập kho; không dùng giá bán lẻ để tính giá vốn tồn kho."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "FIFO xuất theo thứ tự thời gian nhập kho; không dùng giá bán lẻ để tính giá vốn tồn kho."
+  },
+  {
+    "id": "L07-Q6",
+    "lessonId": "L07",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "modes"
+    ],
+    "question": "1C:Enterprise Platform đóng vai trò tương tự như thành phần nào trong phát triển phần mềm?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Runtime engine và framework cung cấp các dịch vụ cốt lõi",
+        "explanation": "Đúng. Platform cung cấp kiến trúc, engine và công cụ metadata để các Configuration chạy trên đó."
+      },
+      {
+        "id": "b",
+        "text": "Một file Excel chứa danh sách khách hàng",
+        "explanation": "Chưa đúng. Platform cung cấp kiến trúc, engine và công cụ metadata để các Configuration chạy trên đó."
+      },
+      {
+        "id": "c",
+        "text": "Trình duyệt web dùng để lướt tin tức",
+        "explanation": "Chưa đúng. Platform cung cấp kiến trúc, engine và công cụ metadata để các Configuration chạy trên đó."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Platform cung cấp kiến trúc, engine và công cụ metadata để các Configuration chạy trên đó."
+  },
+  {
+    "id": "L07-Q7",
+    "lessonId": "L07",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "platform"
+    ],
+    "question": "Thao tác cấu hình phân quyền người dùng và định nghĩa cấu trúc dữ liệu trên 1C được thực hiện ở đâu?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Chế độ bán lẻ tại quầy của thu ngân",
+        "explanation": "Chưa đúng. Người phát triển/quản trị sử dụng Designer để thiết kế cấu trúc dữ liệu và quy tắc nghiệp vụ."
+      },
+      {
+        "id": "c",
+        "text": "Trên trang mạng xã hội của công ty",
+        "explanation": "Chưa đúng. Người phát triển/quản trị sử dụng Designer để thiết kế cấu trúc dữ liệu và quy tắc nghiệp vụ."
+      },
+      {
+        "id": "a",
+        "text": "Designer mode",
+        "explanation": "Đúng. Người phát triển/quản trị sử dụng Designer để thiết kế cấu trúc dữ liệu và quy tắc nghiệp vụ."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Người phát triển/quản trị sử dụng Designer để thiết kế cấu trúc dữ liệu và quy tắc nghiệp vụ."
+  },
+  {
+    "id": "L08-Q6",
+    "lessonId": "L08",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "data-object"
+    ],
+    "question": "Khi một Configuration được cập nhật phiên bản mới, dữ liệu thực tế (Data records) trong Infobase có bị mất không?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Không, cấu trúc được cập nhật và dữ liệu nghiệp vụ được bảo toàn",
+        "explanation": "Đúng. 1C tự động nâng cấp cấu trúc bảng dữ liệu tương ứng với metadata mới mà không làm mất bản ghi thực tế."
+      },
+      {
+        "id": "b",
+        "text": "Có, toàn bộ dữ liệu khách hàng sẽ bị xóa trắng",
+        "explanation": "Chưa đúng. 1C tự động nâng cấp cấu trúc bảng dữ liệu tương ứng với metadata mới mà không làm mất bản ghi thực tế."
+      },
+      {
+        "id": "c",
+        "text": "Dữ liệu sẽ tự động chuyển thành hình ảnh",
+        "explanation": "Chưa đúng. 1C tự động nâng cấp cấu trúc bảng dữ liệu tương ứng với metadata mới mà không làm mất bản ghi thực tế."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "1C tự động nâng cấp cấu trúc bảng dữ liệu tương ứng với metadata mới mà không làm mất bản ghi thực tế."
+  },
+  {
+    "id": "L08-Q7",
+    "lessonId": "L08",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "infobase"
+    ],
+    "question": "Quan hệ giữa Metadata Object và Data Object trong 1C tương đương với cặp khái niệm nào trong OOP?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Hàm (Function) và Biến tạm",
+        "explanation": "Chưa đúng. Metadata định nghĩa khuôn mẫu/cấu trúc (Class), còn Data object là dữ liệu cụ thể tạo từ mẫu đó (Instance)."
+      },
+      {
+        "id": "c",
+        "text": "Màn hình và Bàn phím máy tính",
+        "explanation": "Chưa đúng. Metadata định nghĩa khuôn mẫu/cấu trúc (Class), còn Data object là dữ liệu cụ thể tạo từ mẫu đó (Instance)."
+      },
+      {
+        "id": "a",
+        "text": "Class (Lớp) và Instance (Thể hiện/Đối tượng cụ thể)",
+        "explanation": "Đúng. Metadata định nghĩa khuôn mẫu/cấu trúc (Class), còn Data object là dữ liệu cụ thể tạo từ mẫu đó (Instance)."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Metadata định nghĩa khuôn mẫu/cấu trúc (Class), còn Data object là dữ liệu cụ thể tạo từ mẫu đó (Instance)."
+  },
+  {
+    "id": "L09-Q6",
+    "lessonId": "L09",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "reference"
+    ],
+    "question": "Trong 1C, loại thuộc tính (Attribute) dạng Reference trỏ tới Catalog khác mang ý nghĩa gì?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tạo mối liên kết dữ liệu có tính toàn vẹn tham chiếu (Foreign Key)",
+        "explanation": "Đúng. Reference liên kết chặt chẽ bản ghi hiện tại với một phần tử trong Catalog khác, đảm bảo dữ liệu chuẩn hóa."
+      },
+      {
+        "id": "b",
+        "text": "Sao chép toàn bộ cơ sở dữ liệu sang thư mục mới",
+        "explanation": "Chưa đúng. Reference liên kết chặt chẽ bản ghi hiện tại với một phần tử trong Catalog khác, đảm bảo dữ liệu chuẩn hóa."
+      },
+      {
+        "id": "c",
+        "text": "Chỉ để trang trí biểu tượng trên màn hình",
+        "explanation": "Chưa đúng. Reference liên kết chặt chẽ bản ghi hiện tại với một phần tử trong Catalog khác, đảm bảo dữ liệu chuẩn hóa."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Reference liên kết chặt chẽ bản ghi hiện tại với một phần tử trong Catalog khác, đảm bảo dữ liệu chuẩn hóa."
+  },
+  {
+    "id": "L09-Q7",
+    "lessonId": "L09",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "catalog"
+    ],
+    "question": "Tính năng Hierarchical Catalog (Danh mục phân cấp) trong 1C hữu ích nhất trong trường hợp nào?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Xếp thứ tự nhân viên theo độ tuổi",
+        "explanation": "Chưa đúng. Phân cấp giúp gom nhóm mặt hàng trực quan và dễ quản lý."
+      },
+      {
+        "id": "c",
+        "text": "Đếm số lượng chứng từ xuất kho trong ngày",
+        "explanation": "Chưa đúng. Phân cấp giúp gom nhóm mặt hàng trực quan và dễ quản lý."
+      },
+      {
+        "id": "a",
+        "text": "Tổ chức nhóm sản phẩm theo cây thư mục cha - con",
+        "explanation": "Đúng. Phân cấp giúp gom nhóm mặt hàng trực quan và dễ quản lý."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Phân cấp giúp gom nhóm mặt hàng trực quan và dễ quản lý."
+  },
+  {
+    "id": "L10-Q6",
+    "lessonId": "L10",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "posting"
+    ],
+    "question": "Điều gì xảy ra với các bản ghi trong Register khi một Document bị Unpost (Hủy ghi sổ) trong 1C?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Các movement do document đó tạo ra sẽ được xóa bỏ khỏi Register",
+        "explanation": "Đúng. Hủy ghi sổ sẽ rút lại các biến động (movements) mà chứng từ đã tác động vào register trước đó."
+      },
+      {
+        "id": "b",
+        "text": "Register sẽ xóa toàn bộ danh mục sản phẩm",
+        "explanation": "Chưa đúng. Hủy ghi sổ sẽ rút lại các biến động (movements) mà chứng từ đã tác động vào register trước đó."
+      },
+      {
+        "id": "c",
+        "text": "Chứng từ bị xóa vĩnh viễn khỏi cơ sở dữ liệu",
+        "explanation": "Chưa đúng. Hủy ghi sổ sẽ rút lại các biến động (movements) mà chứng từ đã tác động vào register trước đó."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Hủy ghi sổ sẽ rút lại các biến động (movements) mà chứng từ đã tác động vào register trước đó."
+  },
+  {
+    "id": "L10-Q7",
+    "lessonId": "L10",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "document"
+    ],
+    "question": "Một Document trong 1C có thể ghi sổ (Post) đồng thời vào nhiều Register khác nhau không?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Không, mỗi chứng từ chỉ được phép tác động đúng một register duy nhất",
+        "explanation": "Chưa đúng. Cấu hình 1C cho phép một chứng từ (như Hóa đơn bán) post đồng thời vào nhiều register để cập nhật kho, công nợ, doanh thu."
+      },
+      {
+        "id": "c",
+        "text": "Chỉ được post vào register nếu chứng từ không có số tiền",
+        "explanation": "Chưa đúng. Cấu hình 1C cho phép một chứng từ (như Hóa đơn bán) post đồng thời vào nhiều register để cập nhật kho, công nợ, doanh thu."
+      },
+      {
+        "id": "a",
+        "text": "Có, một chứng từ có thể cập nhật cả Register tồn kho và Register công nợ",
+        "explanation": "Đúng. Cấu hình 1C cho phép một chứng từ (như Hóa đơn bán) post đồng thời vào nhiều register để cập nhật kho, công nợ, doanh thu."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Cấu hình 1C cho phép một chứng từ (như Hóa đơn bán) post đồng thời vào nhiều register để cập nhật kho, công nợ, doanh thu."
+  },
+  {
+    "id": "L11-Q6",
+    "lessonId": "L11",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "resources"
+    ],
+    "question": "Sự khác biệt căn bản giữa Turnover Accumulation Register và Balance Accumulation Register là gì?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Turnover chỉ theo dõi lưu lượng phát sinh trong kỳ, còn Balance tính được số dư cuối kỳ",
+        "explanation": "Đúng. Turnover theo dõi phát sinh (như doanh số bán, lượng xuất), Balance lưu trữ cả số dư đầu/cuối và biến động nhập xuất."
+      },
+      {
+        "id": "b",
+        "text": "Turnover chỉ lưu văn bản chữ, Balance chỉ lưu số nguyên",
+        "explanation": "Chưa đúng. Turnover theo dõi phát sinh (như doanh số bán, lượng xuất), Balance lưu trữ cả số dư đầu/cuối và biến động nhập xuất."
+      },
+      {
+        "id": "c",
+        "text": "Hai loại này hoàn toàn giống nhau chỉ khác tên gọi",
+        "explanation": "Chưa đúng. Turnover theo dõi phát sinh (như doanh số bán, lượng xuất), Balance lưu trữ cả số dư đầu/cuối và biến động nhập xuất."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Turnover theo dõi phát sinh (như doanh số bán, lượng xuất), Balance lưu trữ cả số dư đầu/cuối và biến động nhập xuất."
+  },
+  {
+    "id": "L11-Q7",
+    "lessonId": "L11",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "register"
+    ],
+    "question": "Trong Accumulation Register, nếu truy vấn số dư tồn kho mà không truyền điều kiện lọc theo Dimension Warehouse, kết quả trả về là gì?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Hệ thống báo lỗi vì bắt buộc phải chọn kho",
+        "explanation": "Chưa đúng. Không truyền chiều kho thì hệ thống sẽ tự động tổng hợp toàn bộ tồn kho của mặt hàng trên mọi địa điểm."
+      },
+      {
+        "id": "c",
+        "text": "Số lượng tồn của kho đầu tiên trong danh mục",
+        "explanation": "Chưa đúng. Không truyền chiều kho thì hệ thống sẽ tự động tổng hợp toàn bộ tồn kho của mặt hàng trên mọi địa điểm."
+      },
+      {
+        "id": "a",
+        "text": "Tổng số dư của sản phẩm đó trên tất cả các kho cộng lại",
+        "explanation": "Đúng. Không truyền chiều kho thì hệ thống sẽ tự động tổng hợp toàn bộ tồn kho của mặt hàng trên mọi địa điểm."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Không truyền chiều kho thì hệ thống sẽ tự động tổng hợp toàn bộ tồn kho của mặt hàng trên mọi địa điểm."
+  },
+  {
+    "id": "L12-Q6",
+    "lessonId": "L12",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "roles"
+    ],
+    "question": "Trong cơ chế phân quyền (Roles) của 1C:Enterprise, mức độ bảo mật RLS (Record-Level Security) cho phép làm gì?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Phân quyền chi tiết đến từng dòng dữ liệu theo điều kiện nghiệp vụ",
+        "explanation": "Đúng. RLS kiểm soát quyền xem/sửa đến từng bản ghi (ví dụ nhân viên chi nhánh nào chỉ thấy dữ liệu chi nhánh đó)."
+      },
+      {
+        "id": "b",
+        "text": "Khóa bàn phím khi người dùng nhập sai mật khẩu",
+        "explanation": "Chưa đúng. RLS kiểm soát quyền xem/sửa đến từng bản ghi (ví dụ nhân viên chi nhánh nào chỉ thấy dữ liệu chi nhánh đó)."
+      },
+      {
+        "id": "c",
+        "text": "Tự động tắt máy tính khi hết giờ làm việc",
+        "explanation": "Chưa đúng. RLS kiểm soát quyền xem/sửa đến từng bản ghi (ví dụ nhân viên chi nhánh nào chỉ thấy dữ liệu chi nhánh đó)."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "RLS kiểm soát quyền xem/sửa đến từng bản ghi (ví dụ nhân viên chi nhánh nào chỉ thấy dữ liệu chi nhánh đó)."
+  },
+  {
+    "id": "L12-Q7",
+    "lessonId": "L12",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "query"
+    ],
+    "question": "Báo cáo (Report) trong 1C sử dụng công cụ Data Composition System (DCS) đem lại lợi ích gì nổi bật?",
+    "options": [
+      {
+        "id": "b",
+        "text": "Tự động gửi tin nhắn SMS cho khách hàng mỗi ngày",
+        "explanation": "Chưa đúng. DCS là công cụ mạnh mẽ của 1C giúp xây dựng báo cáo phức tạp, phân nhóm, tính tổng và biểu đồ trực quan."
+      },
+      {
+        "id": "c",
+        "text": "Thay thế toàn bộ các chứng từ nhập kho",
+        "explanation": "Chưa đúng. DCS là công cụ mạnh mẽ của 1C giúp xây dựng báo cáo phức tạp, phân nhóm, tính tổng và biểu đồ trực quan."
+      },
+      {
+        "id": "a",
+        "text": "Cho phép thiết kế báo cáo nhiều chiều, lọc linh hoạt mà không cần viết nhiều code",
+        "explanation": "Đúng. DCS là công cụ mạnh mẽ của 1C giúp xây dựng báo cáo phức tạp, phân nhóm, tính tổng và biểu đồ trực quan."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "DCS là công cụ mạnh mẽ của 1C giúp xây dựng báo cáo phức tạp, phân nhóm, tính tổng và biểu đồ trực quan."
+  },
+  {
+    "id": "L13-Q6",
+    "lessonId": "L13",
+    "category": "1c",
+    "difficulty": "medium",
+    "tags": [
+      "workflow"
+    ],
+    "question": "Trước khi nộp bài thi trắc nghiệm, nếu còn 5 phút và có 3 câu chưa chắc chắn, chiến lược nào khôn ngoan nhất?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dùng phương pháp loại trừ, chọn đáp án hợp lý nhất và không để trống câu hỏi",
+        "explanation": "Đúng. Đề thi trắc nghiệm không trừ điểm câu sai; việc loại trừ và chọn đáp án tốt nhất luôn đem lại cơ hội điểm cao hơn."
+      },
+      {
+        "id": "b",
+        "text": "Bấm nộp bài ngay lập tức để lấy điểm tốc độ",
+        "explanation": "Chưa đúng. Đề thi trắc nghiệm không trừ điểm câu sai; việc loại trừ và chọn đáp án tốt nhất luôn đem lại cơ hội điểm cao hơn."
+      },
+      {
+        "id": "c",
+        "text": "Xóa hết các đáp án đã chọn ở những câu đó",
+        "explanation": "Chưa đúng. Đề thi trắc nghiệm không trừ điểm câu sai; việc loại trừ và chọn đáp án tốt nhất luôn đem lại cơ hội điểm cao hơn."
+      }
+    ],
+    "correctAnswer": [
+      "a"
+    ],
+    "explanation": "Đề thi trắc nghiệm không trừ điểm câu sai; việc loại trừ và chọn đáp án tốt nhất luôn đem lại cơ hội điểm cao hơn."
+  }
+]
